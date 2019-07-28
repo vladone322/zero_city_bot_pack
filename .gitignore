@@ -20,3 +20,4 @@ config.json
 /NoxPlayer_netlog.txt
 /bot_info.txt
 /NoxPlayer_debuglog.txt
+/bin/authcache.bin
