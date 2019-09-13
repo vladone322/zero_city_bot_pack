@@ -1,4 +1,4 @@
 {	
-	"email": "you@gmail.com",
+	"email": "vladone061299@mail.ru",
 	"access_code": "",
 }
